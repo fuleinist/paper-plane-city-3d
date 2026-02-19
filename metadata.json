@@ -1,0 +1,7 @@
+{
+  "name": "Paper Plane City",
+  "description": "A 3D flight experience controlled by hand gestures. Use the 'Love' (🤟) or 'Open Plane' (✋) gesture to fly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
